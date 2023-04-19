@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Orgs 2.0</string>
+    <string name="name">Cesta de Frutas</string>
+    <string name="description">Laranja, manga e uva</string>
+    <string name="value">R$ 19,99</string>
+
+    <string name="et_name">Nome</string>
+    <string name="et_description">Descrição</string>
+    <string name="et_value">Valor</string>
+    <string name="btn_save">Salvar</string>
+
+    <string name="novo_produto">NOVO PRODUTO</string>
+    <string name="adicionar_novo_produto">Adicionar Novo Produto</string>
+    <string name="imagem_do_produto">Imagem do produto</string>
+    <string name="selecione_a_imagem_para_o_produto">Selecione a imagem para o produto</string>
+    <string name="carregar">Carregar</string>
+    <string name="tiet_url">URL da imagem</string>
+
+    <string name="add_product">Cadastrar product</string>
+    <string name="update_product">Alterar product</string>
+
+    <string name="menu_edit">Editar</string>
+    <string name="menu_remove">Remover</string>
+    <string name="menu_sort">Ordenar</string>
+
+    <string name="submenu_sort_name_desc">nome desc</string>
+    <string name="submenu_sort_name_asc">nome asc</string>
+    <string name="submenu_sort_description_desc">descrição desc</string>
+    <string name="submenu_sort_description_asc">descrição asc</string>
+    <string name="submenu_sort_value_desc">valor desc</string>
+    <string name="submenu_sort_value_asc">valor asc</string>
+    <string name="submenu_sort_no_sort">sem ordem</string>
+</resources>
