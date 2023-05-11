@@ -37,15 +37,11 @@ Menu de popup ao clicar e pressionar um item da lista de produtos.
 
 ![demonstração desafio popup](https://user-images.githubusercontent.com/8989346/143617874-c55ec2fb-fe56-4f0c-866c-af9bd3a1827b.gif)
 
-[Resultado do desafio](https://github.com/alura-cursos/android-com-kotlin-persistencia-de-dados-com-room/commit/ff307fcaf25089689e944d5e79f4f8c3f15f8cc3).
-
 ### Ordenação de produtos
 
 Menus de opções para ordenar produtos por nome, descrição ou valor. 
 
 ![demonstração do desafio de ordenação de produtos](https://user-images.githubusercontent.com/8989346/137913949-2bed58cc-c9c5-4444-a4a3-6e1fcf94938d.gif)
-
-[Resultado do desafio](https://github.com/alura-cursos/android-com-kotlin-persistencia-de-dados-com-room/commit/58fa63e2bb004d9144a0727a2dadd9265f0182ba).
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -58,7 +54,3 @@ Menus de opções para ordenar produtos por nome, descrição ou valor.
 - `Menu de opções`: menu para editar e remover
 - `Extras`: técnica para enviar e receber informações entre Activities
 - `inicialização lateinit e lazy`: técnicas para criar propriedades em Activities que não podem ser inicializadas na construção da Activity
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-persistencia-dados-room) que desenvolve o projeto desde o começo!
